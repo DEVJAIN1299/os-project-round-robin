@@ -226,7 +226,7 @@ int main()
 	}
 	
 	
-	printf("\n\n\n");
+	printf("\n\n");
 	printf("\nAverage waiting time:%f\n",avgwt/n);
 
 }
